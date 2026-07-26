@@ -1,0 +1,3 @@
+_target_: models.vision_encoders.HFVisionEncoder
+model_name: "facebook/vit-mae-base"
+model_type: "mae"

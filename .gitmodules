@@ -1,0 +1,3 @@
+[submodule "models/world_models/dino_wm_official"]
+	path = models/world_models/dino_wm_official
+	url = https://github.com/gaoyuezhou/dino_wm.git

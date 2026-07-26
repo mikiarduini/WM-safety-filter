@@ -1,0 +1,3 @@
+_target_: models.vision_encoders.HFVisionEncoder
+model_name: "google/siglip-base-patch16-224"
+model_type: "siglip"
